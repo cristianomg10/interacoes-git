@@ -5,5 +5,4 @@ Luís Felippe Tomazini Fernandes -- Eutru
 Joao Vieira
 Eduardo
 Cleber bambam
-João Arthur de Almeida
-Nova linha aqui
+João Arthur de Almeida -- João A Linha
